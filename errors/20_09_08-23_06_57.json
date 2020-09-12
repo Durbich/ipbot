@@ -1,0 +1,29 @@
+{
+    "error": {
+        "error_code": 100,
+        "error_msg": "One of the parameters specified was missing or invalid: peer_id not integer",
+        "request_params": [
+            {
+                "key": "peer_id",
+                "value": "203688551                "
+            },
+            {
+                "key": "random_id",
+                "value": "200908230657030139"
+            },
+            {
+                "key": "v",
+                "value": "5.107"
+            },
+            {
+                "key": "method",
+                "value": "messages.send"
+            },
+            {
+                "key": "oauth",
+                "value": "1"
+            }
+        ]
+    },
+    "request": "https://api.vk.com/method/messages.send?peer_id=203688551                &message=\u0422\u0435\u0431\u0435 \u043d\u0443\u0436\u043d\u043e \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u0441\u044f \u0447\u0435\u0440\u0435\u0437 SSH. \u0427\u0442\u043e\u0431\u044b \u0441\u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0444\u0430\u0439\u043b\u044b                 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439 SCP. \u0414\u043b\u044f \u0432\u0438\u043d\u0434\u044b \u0435\u0441\u0442\u044c SSH-\u043a\u043b\u0438\u0435\u043d\u0442 PuTTY, \u0441 \u043d\u0438\u043c \u0438\u0434\u0451\u0442 PSCP (\u0434\u043b\u044f \u043a\u043e\u043f\u0438\u043f\u0430\u0441\u0442\u044b).                 \u041a\u043e\u0440\u043e\u0442\u043a\u043e\u0439 \u0441\u0442\u0430\u0442\u044c\u0438 \u0432 \u043d\u044d\u0442\u0435 \u0445\u0432\u0430\u0442\u0438\u0442, \u0447\u0442\u043e\u0431 \u0440\u0430\u0437\u043e\u0431\u0440\u0430\u0442\u044c\u0441\u044f \u043a\u0430\u043a \u044d\u0442\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c.                 \u0427\u0442\u043e\u0431 \u043f\u0440\u043e\u0447\u0438\u0442\u0430\u0442\u044c \u0444\u0430\u0439\u043b \u0431\u0435\u0437 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f - \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439 vim. \u0412 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u0444\u0430\u0439\u043b\u043e\u0432\u043e\u0433\u043e                 \u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440\u0430 \u0435\u0441\u0442\u044c mc. \u0423\u0434\u0430\u0447\u0438&random_id=&random_id=200908230657030139&5.107"
+}
